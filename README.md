@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=thewijay&show_icons=true&theme=cobalt&hide_border=true" style="flex: 6; max-width: 60%; height: 200px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewijay&layout=compact&theme=cobalt&hide_border=true"  style="flex: 4; max-width: 40%; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&theme=cobalt&hide_border=true" style="flex: 6; max-width: 60%; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswijay&layout=compact&theme=cobalt&hide_border=true"  style="flex: 4; max-width: 40%; height: 200px;" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewijay&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itswijay&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thewijay&theme=darkhub&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&margin-w=10" />
 </p>
 
 ## 🌍 Connect with Me
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/thewijay">
+  <a href="https://github.com/itswijay">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
