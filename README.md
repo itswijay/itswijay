@@ -85,9 +85,9 @@
   </a>
 </p>
 
-<!-- <a href="https://mylink.com">
+<a href="https://itswijay.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
-</a> -->
+</a>
 
 Feel free to reach out if you want to collaborate on cool tech projects or just talk about cybersecurity & development!
 
