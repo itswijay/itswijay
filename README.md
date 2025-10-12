@@ -5,9 +5,8 @@
 ### About Me
 
 - 🛡️ Passionate about **DevOps | Cybersecurity & Ethical Hacking**
-- 💻 Full-stack Developer | Linux Enthusiast | Open-Source Advocate
+- 💻 Software Engineer | Linux Enthusiast
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
-- 🎯 Aiming to create innovative solutions in **AI, Security, and Tech Education**
 - 🔭 Currently working on `TrackMyMeal` | `Needalyze`
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
