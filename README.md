@@ -1,24 +1,20 @@
-### Hi there, I'm Pubudu Wijesundara! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h2>Hi there, I'm Pubudu Wijesundara!</h2>
+<h4>FullStack Develper | DevOps Aspirant | Tech Educator</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itswijay&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&lines=Full-Stack+Developer;Tech+Educator;DevOps+Aspirant;Open-Source+Contributor)](https://git.io/typing-svg)
-
----
-
-## About Me
+### About Me
 
 - 🛡️ Passionate about **DevOps | Cybersecurity & Ethical Hacking**
 - 💻 Full-stack Developer | Linux Enthusiast | Open-Source Advocate
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
 - 🎯 Aiming to create innovative solutions in **AI, Security, and Tech Education**
 - 🔭 Currently working on `TrackMyMeal` 🍽️ | `Needalyze` 🏥
-- 🌱 Always learning new technologies, focusing on **DevOps, Cloud Security & AI**
+- 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
 
----
+### Tech Stack
 
-## Tech Stack
-
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
@@ -44,34 +40,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
 </p>
 
----
+### Connect with Me
 
-## GitHub Stats
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&theme=cobalt&hide_border=true" style="flex: 6; max-width: 60%; height: 200px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itswijay&layout=compact&theme=cobalt&hide_border=true"  style="flex: 4; max-width: 40%; height: 200px;" />
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itswijay&theme=dark&hide_border=true" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&margin-w=10" />
-</p>
-
-## Connect with Me
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/pubudu-wijesundara/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -83,20 +54,30 @@
   <a href="https://github.com/itswijay">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
+   &nbsp;&nbsp;
 <a href="https://itswijay.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
 </a>
-
+</p>
 Feel free to reach out if you want to collaborate on cool tech projects or just talk about cybersecurity & development!
 
----
+### GitHub Stats
+<a href="http://www.github.com/itswijay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark)
+![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
+### GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&row=1&column=8&margin-w=5&margin-h=15" width="900" />
+</p>
 
 <!-- ### 🦾 Fun Fact:
 💡 My AI assistant is called **Neo** (inspired by sci-fi tech & AI assistants like J.A.R.V.I.S.)
 
 --- -->
 <p align="center">
-⭐ **If you like my work, consider giving a star!** ⭐
+If you like my work, consider giving a star!
 </p>
