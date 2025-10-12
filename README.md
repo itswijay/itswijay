@@ -8,7 +8,7 @@
 - 💻 Full-stack Developer | Linux Enthusiast | Open-Source Advocate
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
 - 🎯 Aiming to create innovative solutions in **AI, Security, and Tech Education**
-- 🔭 Currently working on `TrackMyMeal` 🍽️ | `Needalyze` 🏥
+- 🔭 Currently working on `TrackMyMeal` | `Needalyze`
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
 
