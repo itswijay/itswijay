@@ -10,7 +10,7 @@
 - 🔭 Currently working on `TrackMyMeal` | `Needalyze`
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
-- 📝 Checkout my latest blog post: <a href=""></a>
+- 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/client-side-rendering-vs-server-side-rendering">Client Side Rendering (CSR) vs Server Side Rendering (SSR)</a>
 
 ### Tech Stack
 
