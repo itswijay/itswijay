@@ -49,7 +49,7 @@ jobs:
 
                   # Update the README.md file
                   # Replace the blog post line with the new content
-                  sed -i "s|-.*Checkout my latest blog post.*|- 📝 Checkout my latest blog post: <a href=\"${BLOG_URL}\">${TITLE}</a>|g" README.md
+                  sed -i "s|-.*Checkout my latest blog post.*|- 📝 Checkout my latest blog post: <a href=\"${BLOG_URL}\" target=\"_blank\">${TITLE}</a>|g" README.md
 
                   # Show the updated line
                   grep -n "Checkout my latest blog post" README.md
