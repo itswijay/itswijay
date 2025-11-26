@@ -22,7 +22,7 @@ jobs:
             - name: Fetch latest blog post and update README
               run: |
                   # Fetch latest blog post from API
-                  RESPONSE=$(curl -s "https://blog.itswijay.me/api/latest?limit=1")
+                  RESPONSE=$(curl -s "https://blog.itswijay.me/api/posts/latest?limit=1")
 
                   # Check if the API call was successful
                   SUCCESS=$(echo "$RESPONSE" | jq -r '.success')
