@@ -10,6 +10,7 @@
 - 🔭 Currently working on `TrackMyMeal` | `Needalyze`
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
+- 📝 Checkout my latest blog post: <a href=""></a>
 
 ### Tech Stack
 
