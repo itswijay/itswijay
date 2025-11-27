@@ -10,7 +10,7 @@
 - 🔭 Currently working on `TrackMyMeal` | `Needalyze`
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
-- 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/client-side-rendering-vs-server-side-rendering" target="_blank">Client Side Rendering (CSR) vs Server Side Rendering (SSR)</a>
+- 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/how-i-built-a-realistic-ansible-home-lab-using-fedora-centos-ubuntu-arch-linux" target="_blank">How I Built a Realistic Ansible Home Lab Using Fedora, CentOS, Ubuntu - 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/client-side-rendering-vs-server-side-rendering" target="_blank">Client Side Rendering (CSR) vs Server Side Rendering (SSR)</a> ArchLinux</a>
 
 ### Tech Stack
 
