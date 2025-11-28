@@ -1,69 +1,69 @@
 name: Update Latest Blog Post
 
 on:
-    schedule:
-        # Runs every 6 hours
-        - cron: "0 */6 * * *"
-    workflow_dispatch: # Allow manual trigger
-    push:
-        branches:
-            - main
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
-    update-readme:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-            - name: Fetch latest blog post and update README
-              run: |
-                  # Fetch latest blog post from API
-                  RESPONSE=$(curl -s "https://blog.itswijay.me/api/posts/latest?limit=1")
+      - name: Fetch latest blog post and update README
+        run: |
+          # Fetch latest blog post from API
+          RESPONSE=$(curl -s "https://blog.itswijay.me/api/posts/latest?limit=1")
 
-                  # Check if the API call was successful
-                  SUCCESS=$(echo "$RESPONSE" | jq -r '.success')
+          # Check if the API call was successful
+          SUCCESS=$(echo "$RESPONSE" | jq -r '.success')
 
-                  if [ "$SUCCESS" != "true" ]; then
-                    echo "Failed to fetch blog posts from API"
-                    exit 1
-                  fi
+          if [ "$SUCCESS" != "true" ]; then
+            echo "Failed to fetch blog posts from API"
+            exit 1
+          fi
 
-                  # Extract post details
-                  TITLE=$(echo "$RESPONSE" | jq -r '.posts[0].title')
-                  SLUG=$(echo "$RESPONSE" | jq -r '.posts[0].slug')
+          # Extract post details
+          TITLE=$(echo "$RESPONSE" | jq -r '.posts[0].title')
+          SLUG=$(echo "$RESPONSE" | jq -r '.posts[0].slug')
 
-                  if [ -z "$TITLE" ] || [ "$TITLE" == "null" ]; then
-                    echo "No blog posts found"
-                    exit 0
-                  fi
+          if [ -z "$TITLE" ] || [ "$TITLE" == "null" ]; then
+            echo "No blog posts found"
+            exit 0
+          fi
 
-                  # Build the full URL
-                  BLOG_URL="https://blog.itswijay.me/blog/${SLUG}"
+          # Build the full URL
+          BLOG_URL="https://blog.itswijay.me/blog/${SLUG}"
 
-                  echo "Latest post: $TITLE"
-                  echo "URL: $BLOG_URL"
+          echo "Latest post: $TITLE"
+          echo "URL: $BLOG_URL"
 
-                  # Update the README.md file
-                  # Replace the blog post line with the new content
-                  sed -i "s|-.*Checkout my latest blog post.*|- 📝 Checkout my latest blog post: <a href=\"${BLOG_URL}\" target=\"_blank\">${TITLE}</a>|g" README.md
+          # Update the README.md file using marker-based replacement
+          # This replaces everything between the markers with the new content
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n- 📝 Checkout my latest blog post: <a href="'"${BLOG_URL}"'" target="_blank">'"${TITLE}"'</a>\n<!-- BLOG-POST-LIST:END -->' README.md
 
-                  # Show the updated line
-                  grep -n "Checkout my latest blog post" README.md
+          # Show the updated line
+          grep -A1 "BLOG-POST-LIST:START" README.md
 
-            - name: Check for changes
-              id: git-check
-              run: |
-                  git diff --quiet README.md || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet README.md || echo "changed=true" >> $GITHUB_OUTPUT
 
-            - name: Commit and push changes
-              if: steps.git-check.outputs.changed == 'true'
-              run: |
-                  git config --local user.email "github-actions[bot]@users.noreply.github.com"
-                  git config --local user.name "github-actions[bot]"
-                  git add README.md
-                  git commit -m "Update latest blog post in README"
-                  git push
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update latest blog post in README"
+          git push
