@@ -77,7 +77,7 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 
 ### GitHub Stats
 
-<a href="http://www.github.com/itswijay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/itswijay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=86400" /></a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark)
