@@ -93,6 +93,11 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 💡 My AI assistant is called **Neo** (inspired by sci-fi tech & AI assistants like J.A.R.V.I.S.)
 
 --- -->
+
+### Support
+
+<p><a href="https://www.buymeacoffee.com/itswijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="neo_3xd" /></a></p><br><br>
+
 <p align="center">
 If you like my work, consider giving a star!
 </p>
