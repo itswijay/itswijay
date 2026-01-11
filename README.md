@@ -78,15 +78,15 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 ### GitHub Stats
 
 <a href="http://www.github.com/itswijay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=86400" /></a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark)
-![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark&cache_seconds=86400)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark&cache_seconds=86400)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark&cache_seconds=86400)
+![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400)
 
 ### GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&row=1&column=8&margin-w=5&margin-h=15" width="900" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&row=1&column=8&margin-w=5&margin-h=15&cache_seconds=86400" width="900" />
 </p>
 
 <!-- ### 🦾 Fun Fact:
@@ -96,7 +96,7 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 
 ### Support
 
-<p><a href="https://www.buymeacoffee.com/itswijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="neo_3xd" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/itswijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a></p><br><br>
 
 <p align="center">
 If you like my work, consider giving a star!
