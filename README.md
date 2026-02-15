@@ -11,7 +11,7 @@
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
 <!-- BLOG-POST-LIST:START -->
-- 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/how-i-built-a-realistic-ansible-home-lab-using-fedora-centos-ubuntu-arch-linux" target="_blank">How I Built a Realistic Ansible Home Lab Using Fedora, CentOS, Ubuntu & ArchLinux</a>
+- 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/what-is-xss" target="_blank">මොකද්ද මේ XSS එහෙමත් නැත්නම් Cross-Site Scripting කියන්නෙ</a>
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech Stack
