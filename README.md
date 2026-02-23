@@ -59,10 +59,9 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="34" alt="azure logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="34" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="34" alt="adobephotoshop logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="34" alt="illustrator logo"  />
-  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=ai" height="34" alt="adobeillustrator logo"  />
 </div>
 
 ### Connect with Me
