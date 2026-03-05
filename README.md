@@ -11,7 +11,7 @@
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
 <!-- BLOG-POST-LIST:START -->
-- 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/what-is-xss" target="_blank">මොකද්ද මේ XSS එහෙමත් නැත්නම් Cross-Site Scripting කියන්නෙ</a>
+- 📝 Checkout my latest blog post: <a href="https://blog.itswijay.me/blog/introducing-uv-python-package-manager" target="_blank">UV සමඟ Python Dependency Management අලුත් විදිහකට</a>
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech Stack
