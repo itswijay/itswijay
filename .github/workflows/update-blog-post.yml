@@ -42,7 +42,7 @@ jobs:
           fi
 
           # Build the full URL
-          BLOG_URL="https://blog.itswijay.me/blog/${SLUG}"
+          BLOG_URL="https://blog.pubuduwijesundara.me/${SLUG}"
 
           echo "Latest post: $TITLE"
           echo "URL: $BLOG_URL"
