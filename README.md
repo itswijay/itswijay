@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Pubudu Wijesundara!</h2>
-<h4>FullStack Develper | DevOps Aspirant | Tech Educator</h4>
+<h4>FullStack Develper | Cybersecurity Aspirant | Tech Educator</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itswijay&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 ### About Me
