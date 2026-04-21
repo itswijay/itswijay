@@ -4,8 +4,8 @@
 
 ### About Me
 
-- 🛡️ Passionate about **DevOps | Cybersecurity & Ethical Hacking**
-- 💻 Software Engineer | Linux Enthusiast
+- 🛡️ Passionate about **Linux| Networking | Cybersecurity & Ethical Hacking**
+- 💻 Software Engineer
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
 - 🔭 Currently working on `TrackMyMeal` | `Needalyze`
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
