@@ -11,7 +11,7 @@
 - 🌱 Focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
 <!-- BLOG-POST-LIST:START -->
-- 📝 Checkout my latest blog post: <a href="https://blog.pubuduwijesundara.me/introducing-uv-python-package-manager" target="_blank">UV සමඟ Python Dependency Management අලුත් විදිහකට</a>
+- 📝 Checkout my latest blog post: <a href="https://blog.pubuduwijesundara.me/osi-layers-simply-explained-in-sinhala" target="_blank">OSI Layers Simply Explained in Sinhala</a>
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech Stack
