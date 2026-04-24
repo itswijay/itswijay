@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Pubudu Wijesundara!</h2>
-<h4>FullStack Develper | Cybersecurity Aspirant | Tech Educator</h4>
+<h4>Software Engineer | Cybersecurity Aspirant | Tech Educator</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itswijay&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 ### About Me
@@ -7,8 +7,7 @@
 - 🛡️ Passionate about **Linux| Networking | Cybersecurity & Ethical Hacking**
 - 💻 Software Engineer
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
-- 🔭 Currently working on `TrackMyMeal` | `Needalyze`
-- 🌱 Focusing on **DevOps, Cloud Security & AI**
+- 🌱 Focusing on **Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
 <!-- BLOG-POST-LIST:START -->
 - 📝 Checkout my latest blog post: <a href="https://blog.pubuduwijesundara.me/osi-layers-simply-explained-in-sinhala" target="_blank">OSI Layers Simply Explained in Sinhala</a>
