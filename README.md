@@ -96,7 +96,7 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 ### GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&row=1&column=8&margin-w=5&margin-h=15&cache_seconds=86400" width="900" />
+  <img src="https://github-trophies.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&row=1&column=8&margin-w=5&margin-h=15" width="900" />
 </p>
 
 <!-- ### 🦾 Fun Fact:
