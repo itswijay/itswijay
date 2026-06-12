@@ -91,6 +91,7 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark&cache_seconds=86400)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark&cache_seconds=86400)
 ![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itswijay&theme=github-dark)
 
 ### GitHub Trophies
 
