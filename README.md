@@ -13,7 +13,7 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 
 ## About Me
 
-- 🛡️ Passionate about **Linux| Networking | Cybersecurity & Ethical Hacking**
+- 🛡️ Passionate about **Linux| Networking | System Architecture & Cloud Infrastructure**
 - 💻 Software Engineer
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
 - 🌱 Focusing on **Cloud Security & AI**
