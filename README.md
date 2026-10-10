@@ -52,7 +52,7 @@
 
 <!-- ─── SOCIAL BADGES ─── -->
 <p align="center">
-Feel free to reach out if you want to collaborate on cool tech projects or just talk about cybersecurity & development!
+Feel free to reach out if you want to collaborate on cool tech projects or just talk about cloud & DevOps or development!
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 <!--[![Pubudu's GitHub stats](https://github-stats-extended.vercel.app/api?username=itswijay&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400" alt="Repos per Language" />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
 
 </div>
@@ -87,7 +87,3 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 ## Support
 
 <p><a href="https://www.buymeacoffee.com/itswijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a></p><br><br>
-
-<p align="center">
-If you like my work, consider giving a star!
-</p>
