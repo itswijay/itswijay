@@ -75,7 +75,6 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itswijay&bg_color=0D1117&color=ffffff&line=61dafb&point=61dafb&area=true&area_color=61dafb&title_color=61dafb&hide_border=true)
 
 </div>
 
