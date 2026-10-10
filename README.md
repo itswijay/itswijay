@@ -13,67 +13,27 @@
 - 📝 Checkout my latest blog post: <a href="https://blog.pubuduwijesundara.me/osi-layers-simply-explained-in-sinhala" target="_blank">OSI Layers Simply Explained in Sinhala</a>
 <!-- BLOG-POST-LIST:END -->
 
-### Languages & Frameworks
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="typescript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="52" alt="go logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="52" alt="django logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="52" alt="fastapi logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="react logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="52" alt="nextjs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="nodejs logo" />
+
+  **Languages & Frameworks**
+
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,django,fastapi,react,nextjs,nodejs&theme=dark&perline=9" />
+
+  **Styling & Design**
+
+  <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark&perline=2" />
+
+  **Backend & Database**
+
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark&perline=2" />
+
+  **Tools & DevOps**
+
+  <img src="https://skillicons.dev/icons?i=linux,bash,fedora,ansible,git,docker,kubernetes,aws,azure,arduino&theme=dark&perline=10" />
+
 </div>
 
-### Styling & Design
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps" height="52" alt="adobe photoshop logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ai" height="52" alt="adobe illustrator logo" />
-</div>
-
-### Backend & Database
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="58" alt="postgresql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="52" alt="mongodb logo" />
-</div>
-
-### Tools & DevOps
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bash" height="52" alt="bash logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="52" alt="fedora logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="52" alt="ansible logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="git logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" alt="docker logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="52" alt="kubernetes logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="52" alt="amazon web services logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="52" alt="azure logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="52" alt="arduino logo" />
-</div>
+<br />
 
 ### Connect with Me
 
@@ -100,7 +60,7 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 
 [![Pubudu's GitHub stats](https://github-stats-extended.vercel.app/api?username=itswijay&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&sideLabels=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&sideStreak=ffffff)](https://git.io/streak-stats)
 
 <!--[![Pubudu's GitHub stats](https://github-stats-extended.vercel.app/api?username=itswijay&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)-->
 
