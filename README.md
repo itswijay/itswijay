@@ -13,22 +13,34 @@
 - 📝 Checkout my latest blog post: <a href="https://blog.pubuduwijesundara.me/osi-layers-simply-explained-in-sinhala" target="_blank">OSI Layers Simply Explained in Sinhala</a>
 <!-- BLOG-POST-LIST:END -->
 
+</br>
+
+### Tech Stack
 <div align="center">
-
+ 
   **Languages & Frameworks**
-
+  
   <img src="https://skillicons.dev/icons?i=python,js,ts,go,django,fastapi,react,nextjs,nodejs&theme=dark&perline=9" />
 
-  **Styling & Design**
+</br>
+</br>
 
+  **Styling & Design**
+  
   <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark&perline=2" />
 
-  **Backend & Database**
+</br>
+</br>
 
+  **Backend & Database**
+  
   <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark&perline=2" />
 
-  **Tools & DevOps**
+</br>
+</br>
 
+  **Tools & DevOps**
+  
   <img src="https://skillicons.dev/icons?i=linux,bash,fedora,ansible,git,docker,kubernetes,aws,azure,arduino&theme=dark&perline=10" />
 
 </div>
