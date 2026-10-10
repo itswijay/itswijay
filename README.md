@@ -68,14 +68,14 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
  
 ![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&sideStreak=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itswijay&theme=react&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakNum=ffffff&currStreakLabel=61dafb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 <!--[![Pubudu's GitHub stats](https://github-stats-extended.vercel.app/api?username=itswijay&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark&cache_seconds=86400)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark&cache_seconds=86400)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark&cache_seconds=86400)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itswijay&theme=github-dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark&bg_color=0D1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb&border_color=0D1117&cache_seconds=86400)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itswijay&bg_color=0D1117&color=ffffff&line=61dafb&point=61dafb&area=true&area_color=61dafb&title_color=61dafb&hide_border=true)
 
 </div>
 
