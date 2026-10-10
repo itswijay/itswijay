@@ -41,7 +41,8 @@
 
   **Tools & DevOps**
   
-  <img src="https://skillicons.dev/icons?i=linux,bash,fedora,ansible,git,docker,kubernetes,aws,azure,arduino&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,ansible,git,docker,kubernetes,aws,azure,arduino&theme=dark&perline=9" alt="Linux, Bash, Ansible, Git, Docker, Kubernetes, AWS, Azure, and Arduino icons" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora logo" height="48" />
 
 </div>
 
