@@ -2,7 +2,7 @@
 <h4>Software Engineer | System Architecture & Cloud Infrastructure | Linux & Networking | Tech Educator</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itswijay&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-### About Me
+## About Me
 
 - 🛡️ Passionate about **Linux| Networking | Cybersecurity & Ethical Hacking**
 - 💻 Software Engineer
@@ -15,7 +15,7 @@
 
 </br>
 
-### Tech Stack
+## Tech Stack
 <div align="center">
  
   **Languages & Frameworks**
@@ -48,30 +48,25 @@
 
 <br />
 
-### Connect with Me
+## Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pubudu-wijesundara/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/itswijay">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-   &nbsp;&nbsp;
-<a href="https://itswijay.me">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
-</a>
-</p>
+<!-- ─── SOCIAL BADGES ─── -->
+<p align="center">
 Feel free to reach out if you want to collaborate on cool tech projects or just talk about cybersecurity & development!
+</p>
 
-### GitHub Stats
+<p align="center">
+<a href="https://www.linkedin.com/in/pubuduwijesundara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"/></a>
+<a href="https://pubuduwijesundara.me"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=fff" alt="Portfolio"/></a>
+<a href="mailto:pubuduwijes@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/></a>
+</p>
+</br>
 
-[![Pubudu's GitHub stats](https://github-stats-extended.vercel.app/api?username=itswijay&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+## GitHub Stats
+
+<div align="center">
+ 
+![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itswijay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&sideStreak=ffffff)](https://git.io/streak-stats)
 
@@ -80,21 +75,17 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itswijay&theme=github_dark&cache_seconds=86400)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itswijay&theme=github_dark&cache_seconds=86400)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itswijay&theme=github_dark&cache_seconds=86400)
-![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=itswijay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itswijay&theme=github-dark)
 
-### GitHub Trophies
+</div>
 
-<p align="left">
+## GitHub Trophies
+
+<p align="center">
   <img src="https://github-trophies.vercel.app/?username=itswijay&theme=darkhub&no-bg=true&row=1&column=8&margin-w=5&margin-h=15" width="900" />
 </p>
 
-<!-- ### 🦾 Fun Fact:
-💡 My AI assistant is called **Neo** (inspired by sci-fi tech & AI assistants like J.A.R.V.I.S.)
-
---- -->
-
-### Support
+## Support
 
 <p><a href="https://www.buymeacoffee.com/itswijay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a></p><br><br>
 
