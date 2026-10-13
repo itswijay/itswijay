@@ -36,14 +36,16 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
 
   **Styling & Design**
   
-  <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark&perline=3" />
 
 </br>
 </br>
 
   **Backend & Database**
   
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&perline=3" />
+  <img src="https://img.shields.io/badge/Weaviate-00B2FF?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector badge" />
 
 </br>
 </br>
@@ -52,6 +54,8 @@ Feel free to reach out if you want to collaborate on cool tech projects or just 
   
   <img src="https://skillicons.dev/icons?i=linux,bash,ansible,git,docker,kubernetes,aws,azure,arduino&theme=dark&perline=9" alt="Linux, Bash, Ansible, Git, Docker, Kubernetes, AWS, Azure, and Arduino icons" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora logo" height="48" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2" alt="TensorFlow and PyTorch icons" />
+  <img src="https://img.shields.io/badge/Claude-AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI badge" />
 
 </div>
 
